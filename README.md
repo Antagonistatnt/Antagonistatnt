@@ -1,7 +1,7 @@
 ## Perfil de Antagonista
 ---
 
-![Medievil](https://f.rpp-noticias.io/2019/11/27/medievil1_869440.jpg)
+
 
 Esta es una presentación de prueba de mi perfil en **GitHub**
 
