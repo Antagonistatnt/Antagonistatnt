@@ -1,6 +1,6 @@
 ## Perfil de Antagonista
 ---
-        <img src="medievil.jpg" height="60" width="100"
+        <img src="medievil.jpg" height="60" width="100">
 
 Esta es una presentación de prueba de mi perfil en **GitHub**
 
